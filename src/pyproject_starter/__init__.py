@@ -1,0 +1,1 @@
+# src/pyproject_starter/__init__.py
